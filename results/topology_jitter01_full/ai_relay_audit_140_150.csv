@@ -1,0 +1,9 @@
+node_id,actual_risk,predicted_risk,rtr_forward_events,rtr_send_events,rtr_receive_events,unique_relay_tx_packets
+104,1,1,0,0,0,0
+118,1,1,0,0,0,0
+119,1,1,0,0,0,0
+120,1,0,0,0,0,0
+121,1,1,0,0,0,0
+135,1,1,0,0,0,0
+136,1,1,0,0,0,0
+158,0,0,0,0,0,0

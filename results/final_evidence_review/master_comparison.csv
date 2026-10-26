@@ -1,0 +1,5 @@
+topology,scenario,pdr_percent,mean_delay_ms,total_remaining_energy_j
+original,baseline,30.589,3032.257,9143.231922
+modified_jitter01,baseline,32.421,2146.918,9144.95
+original,preventive,27.916,2313.394,9163.777437
+modified_jitter01,preventive,34.989,2749.741,9157.08

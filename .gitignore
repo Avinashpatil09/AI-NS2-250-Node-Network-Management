@@ -1,0 +1,29 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large NS2 output
+results/
+*.tr
+*.nam
+*.log
+
+# Temporary files and archives
+*.zip
+*.tar.gz
+*.tmp
+*.bak
+
+# Credentials and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,2 @@
+checkpoint_s,predicted_high_risk_nodes,high_risk_active_rtr_relays,decision,reason,mac_evidence,automatic_shutdown
+150,6,0,NO_ACTION,No predicted high-risk active RTR CBR relay detected,UNAVAILABLE_TRACE_OFF,False
