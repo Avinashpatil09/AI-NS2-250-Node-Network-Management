@@ -1,0 +1,2 @@
+checkpoint_s,predicted_positive_nodes,positive_count,high_probability_count,active_relay_nodes,missing_audit_nodes,audit_mismatch_nodes,decision,automatic_shutdown,audit_window,mac_evidence
+150,104;118;119;121;135;136,6,0,,,,NO_ACTION,False,140-150s (recorded RTR CBR only),UNAVAILABLE_TRACE_OFF

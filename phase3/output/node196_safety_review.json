@@ -1,0 +1,17 @@
+{
+  "experiment": "Controlled Node 196 shutdown",
+  "evaluation_type": "RETROSPECTIVE",
+  "ai_selected_intervention": false,
+  "node": 196,
+  "intervention_time_s": 155.1,
+  "overall_pdr_change_pp": 0.628,
+  "affected_flow": "180 -> 198",
+  "affected_flow_pdr_change_pp": -8.411,
+  "remaining_energy_change_j": 12.302,
+  "packets_delivered_after_shutdown": 18,
+  "node196_post_shutdown_forwarding_records": 0,
+  "proposed_max_flow_pdr_loss_pp": 2.0,
+  "safety_assessment": "BLOCK_AUTO_SHUTDOWN",
+  "reason": "Affected flow suffered excessive packet-delivery loss",
+  "automatic_shutdown_authorized": false
+}
