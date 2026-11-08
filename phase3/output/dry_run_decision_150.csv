@@ -1,0 +1,2 @@
+checkpoint_s,predicted_positive_nodes,predicted_positive_count,active_relay_nodes,observed_active_relays,missing_audit_nodes,decision,automatic_shutdown,mac_evidence
+150,104;118;119;121;135;136,6,,0,,NO_ACTION,False,UNAVAILABLE_TRACE_OFF
